@@ -1,1 +1,2 @@
 # Physics_Velocity_Visualization
+This Jupyter Notebook coded in Python makes use of the vpython library, a physics-based library developed for educational purposes and used to model vector motion and other physics concepts. The notebook runs and demonstrates spheres in various areas of a 3D area moving towards and stopping in a transparent box, as well as one sphere that continously bounces on a plane.
